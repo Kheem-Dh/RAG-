@@ -1,0 +1,1 @@
+Okapi BM25 is a ranking function used by search engines to estimate the relevance of documents to a given search query. It is based on the term frequency–inverse document frequency model and introduces document length normalization and term frequency saturation to improve retrieval quality【876197337910835†L64-L112】.

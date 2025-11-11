@@ -1,0 +1,1 @@
+Python is a high‑level, interpreted programming language. It supports multiple programming paradigms, including procedural, object‑oriented and functional programming. Python's design philosophy emphasizes code readability with its notable use of significant indentation. It has a large and comprehensive standard library.

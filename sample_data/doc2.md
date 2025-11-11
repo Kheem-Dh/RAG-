@@ -1,0 +1,1 @@
+Karachi is the largest city in Pakistan, located on the coast of the Arabian Sea. It serves as the financial and industrial hub of the country and is home to Pakistan's busiest seaport. Karachi is also known for its diverse population and vibrant culture.
